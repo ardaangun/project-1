@@ -1,0 +1,6 @@
+<li><a href="#">CANVAS</a></li>
+                <li><a href="#">EDUARTE</a></li>
+<li><a href="#">BEGELEIDING</a></li>
+                <li><a href="#">SOFTWARE</a></li>
+                <li><a href="#">EXAMEN</a></li>
+<li><a href="#">STUDIEADVIES</a></li>
